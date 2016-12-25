@@ -17,10 +17,6 @@ public class LockRunnable_2 implements Runnable {
 		this.bank = bank;
 	}
 
-	public LockRunnable_2(Bank_1 bank) {
-		this.bank = bank;
-	}
-
 	@Override
 	public void run() {
 		while (true) {

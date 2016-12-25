@@ -7,8 +7,9 @@ public class Bank_1 extends Bank {
 
 	int Num;
 
+	//lock锁对象  在锁对象内  只有一个线程可以进入
 	ReentrantLock lock = new ReentrantLock();
-
+	//条件对象	根据情况对当前线程进行暂停恢复  会释放锁
 	Condition sufficientFunds = lock.newCondition();
 
 	public int getNum() {
