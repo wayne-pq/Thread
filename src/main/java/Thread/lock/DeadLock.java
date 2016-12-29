@@ -8,6 +8,7 @@ package Thread.lock;
 public class DeadLock implements Runnable {
 
 	public int flag = 0;
+	//static修饰保证不同的DeadLock对象也共享该Object对象
 	static final Object o1 = new Object();
 	static final Object o2 = new Object();
 
