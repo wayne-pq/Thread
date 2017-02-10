@@ -4,9 +4,7 @@ import Thread.lock.ReadLockRunnable_1;
 import Thread.lock.WriteLockRunnable_1;
 import Thread.lock.bean.Bank_4;
 
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
-import java.util.concurrent.ThreadPoolExecutor;
+import java.util.concurrent.*;
 
 /**
  * 
@@ -22,8 +20,7 @@ public class ReadWriteLockThread_1 {
 		ReadLockRunnable_1 runnable_1 = new ReadLockRunnable_1(bank);
 		WriteLockRunnable_1 runnable_2 = new WriteLockRunnable_1(bank);
 
-		ExecutorService pool = Executors.newCachedThreadPool();
-
+		ExecutorService pool = new ThreadPoolExecutor(0,4,3L, TimeUnit.SECONDS,new SynchronousQueue<Runnable>());
 
 		for (int i = 0; i < 2; i++) {
 			pool.submit(runnable_1);
