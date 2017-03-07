@@ -6,6 +6,9 @@ import Thread.lock.bean.Bank_5;
 
 import java.util.concurrent.LinkedBlockingQueue;
 
+/**
+ * 生产线程向队列插入数据，消费者线程则是取出数据
+ */
 public class BlockQueueThread_1 {
 
 	public static void main(String[] str) {

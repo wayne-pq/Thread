@@ -4,7 +4,7 @@ import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantReadWriteLock;
 
 /**
- * 模拟读写锁
+ * 阻塞线程
  * 
  * @author panqian
  * @date 2016年12月25日 下午2:35:43
