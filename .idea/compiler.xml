@@ -26,7 +26,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="IO" target="1.7" />
-      <module name="Thread" target="1.7" />
+      <module name="Thread" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
