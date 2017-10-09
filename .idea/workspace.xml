@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af519cdb-3d0c-4dab-a5af-4f3c6a57795b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="d8e4c450-ecd4-400c-a8ff-262b428e12c0" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
-    <ignored path="Thread.iws" />
-    <ignored path=".idea/workspace.xml" />
-    <ignored path=".idea/dataSources.local.xml" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/../IO/target/" />
-    <ignored path="target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="ChangesViewManager" show_ignored="true" />
-  <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="Thread" />
@@ -136,95 +125,11 @@
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/main/java/lock/bean/Bank.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lock/LockRunnable_1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/test/LockThread_2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Thread/UncaughtException/UncaughtExceptionHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Thread/interrupt/InterruptRunnable_2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Thread/test/DeadThread_1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Thread/lock/LockRunnable_2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Thread/lock/TryDeadLock.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Thread/test/TryDeadThread_1.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/Thread/lock/bean/Bank_1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Thread/lock/ReadWriteLockRunnable_1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Thread/lock/ReadLockRunnable_1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Thread/lock/bean/Bank_4.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Thread/blockqueue/BlockQueueRunnable_1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Thread/test/blockqueue/ProduceRunnable_1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Thread/test/blockqueue/DeadThread_1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Thread/lock/bean/Bank.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Thread/blockqueue/ProduceRunnable_1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Thread/test/callable/UUIDCounter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Thread/test/callable/BlockQueueThread_1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Thread/callable/UUIDCounter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Thread/test/callable/UUIDCounterThread_1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Thread/blockqueue/ConsumeRunnable_1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Thread/lock/bean/Bank_5.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Thread/test/blockqueue/BlockQueueThread_1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Thread/lock/bean/Bank_6.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Thread/test/ReadWriteLockThread_1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Thread/test/AtomicThread_1.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/english.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/Thread/test/ConcurrentHashMap_1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Thread/test/CompletableFuture_1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Thread/test/InterruptThread_1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Thread/test/ThreadJoin.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Thread/lock/DeadLock.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Thread/test/ThreadWaitNotify.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Thread/test/ThreadCountDownLatch.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Thread/test/ThreadCyclicBarrier.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-      </list>
-    </option>
-  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-      </PATH>
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1370" />
-    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -304,34 +209,6 @@
       <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="js-jscs-nodeInterpreter" value="E:\nodejs\node.exe" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
-    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
-    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
-    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="thread" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Thread.test" />
-      <recent name="Thread.lock.bean" />
-      <recent name="Thread.test.callable" />
-      <recent name="Thread.test.blockqueue" />
-      <recent name="Thread.blockqueue" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\eclipseMars2\git\Thread\src\main\java\Thread\test" />
-      <recent name="C:\eclipseMars2\git\Thread\src\main\java" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -877,14 +754,6 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
-  <component name="SshConsoleOptionsProvider">
-    <option name="myEncoding" value="UTF-8" />
-    <option name="myConnectionType" value="NONE" />
-  </component>
-  <component name="SvnConfiguration">
-    <configuration>C:\Users\panqian\AppData\Roaming\Subversion</configuration>
-    <myIsUseDefaultProxy>true</myIsUseDefaultProxy>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="af519cdb-3d0c-4dab-a5af-4f3c6a57795b" name="Default" comment="" />
@@ -917,7 +786,7 @@
       <workItem from="1488944135426" duration="1894000" />
       <workItem from="1488954118322" duration="7821000" />
       <workItem from="1488973401612" duration="2633000" />
-      <workItem from="1507517227851" duration="8869000" />
+      <workItem from="1507517227851" duration="9133000" />
     </task>
     <task id="LOCAL-00001" summary="2016.12.25 多线程学习代码上传">
       <created>1482654644198</created>
@@ -1017,20 +886,18 @@
       <option name="project" value="LOCAL" />
       <updated>1507538259867</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="2017.10.9   补充线程间相互通信协调配合的知识">
+      <created>1507538413952</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1507538413952</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102012000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+    <option name="totallyTimeSpent" value="20000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1041,15 +908,15 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.64332604" sideWeight="0.5309829" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.49671772" sideWeight="0.5309829" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="93" y="100" width="1170" height="535" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40809628" sideWeight="0.4321581" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.64332604" sideWeight="0.4690171" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.49671772" sideWeight="0.4690171" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47029704" sideWeight="0.55436444" order="10" side_tool="true" content_ui="tabs" x="203" y="230" width="641" height="240" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21634616" sideWeight="0.4914842" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21634616" sideWeight="0.4914842" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="ASM" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36324787" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1073,9 +940,6 @@
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30076337" sideWeight="0.52988046" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998326" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -1102,17 +966,6 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USER_GROUPS">
-      <collection />
-    </option>
-    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-      <collection />
-    </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
@@ -1188,10 +1041,6 @@
       <option name="time" value="33" />
     </breakpoint-manager>
     <watches-manager />
-  </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/Thread/blockqueue/ConsumeRunnable_1.java">
