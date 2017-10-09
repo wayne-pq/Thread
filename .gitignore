@@ -1,4 +1,5 @@
 target/classes/
+.idea/
 .gitignore.bak
 
 # Mobile Tools for Java (J2ME)
